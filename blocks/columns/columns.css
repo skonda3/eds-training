@@ -18,6 +18,9 @@
 .columns > div > .columns-img-col img {
   display: block;
 }
+.columns p{
+    font-weight: bold;
+}
 
 @media (width >= 900px) {
   .columns > div {
